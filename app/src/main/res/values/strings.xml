@@ -3,14 +3,13 @@
     <string name="name" />
     <string name="user_name">Susritha</string>
     <string name="yellow_star">Yellow Star</string>
-    <string name="bio">Android Studio preview channels Android Studio builds are available in several "preview channels".
-        In general, which channel you choose for receiving updates depends upon whether you prefer to work in the most stable and bug-free environment,
-        or enjoy to preview new features at the cost of occasional bugs. For this course, we recommend that you use the latest stable version, unless a feature used in
-the course is not yet released in stable. There are four different preview channels, described below. See the Preview Channels
-documentation for details.
-■ Stable channel: Contains the most recent stable version of Android Studio.
-■ Beta channel: When Android Studio reaches a beta milestone for its next version, the
-beta builds are posted here.</string>
+    <string name="bio">Hi, I\'m Susritha.\n\nI\'m a beginner to android development and started a course offered by udacity.
+    \nI\'m trying to code everything that is taught to get hands on practice and experience.
+    \nDeveloping an application seems fun like never before.
+        \n\nI only had experience in web development but now I stepped into android development too.
+        \n\nLet\'s see how deep the course is and how well I can grab things
+        \n\nHappy learning :)!!
+    </string>
     <string name="What_is_your_nickname">What is your nickname?</string>
     <string name="done">Done</string>
 </resources>
